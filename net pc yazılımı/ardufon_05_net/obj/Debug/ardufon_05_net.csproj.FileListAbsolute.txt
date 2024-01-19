@@ -1,0 +1,11 @@
+C:\Users\emirh\OneDrive\Belgeler\Arduino\ardufon\net pc yazılımı\ardufon_05_net\obj\Debug\ardufon_05_net.csproj.AssemblyReference.cache
+C:\Users\emirh\OneDrive\Belgeler\Arduino\ardufon\net pc yazılımı\ardufon_05_net\obj\Debug\ardufon_05_net.csproj.SuggestedBindingRedirects.cache
+C:\Users\emirh\OneDrive\Belgeler\Arduino\ardufon\net pc yazılımı\ardufon_05_net\obj\Debug\ardufon_05_net.Form1.resources
+C:\Users\emirh\OneDrive\Belgeler\Arduino\ardufon\net pc yazılımı\ardufon_05_net\obj\Debug\ardufon_05_net.Properties.Resources.resources
+C:\Users\emirh\OneDrive\Belgeler\Arduino\ardufon\net pc yazılımı\ardufon_05_net\obj\Debug\ardufon_05_net.csproj.GenerateResource.cache
+C:\Users\emirh\OneDrive\Belgeler\Arduino\ardufon\net pc yazılımı\ardufon_05_net\obj\Debug\ardufon_05_net.csproj.CoreCompileInputs.cache
+C:\Users\emirh\OneDrive\Belgeler\Arduino\ardufon\net pc yazılımı\ardufon_05_net\bin\Debug\ardufon_05_net.exe.config
+C:\Users\emirh\OneDrive\Belgeler\Arduino\ardufon\net pc yazılımı\ardufon_05_net\bin\Debug\ardufon_05_net.exe
+C:\Users\emirh\OneDrive\Belgeler\Arduino\ardufon\net pc yazılımı\ardufon_05_net\bin\Debug\ardufon_05_net.pdb
+C:\Users\emirh\OneDrive\Belgeler\Arduino\ardufon\net pc yazılımı\ardufon_05_net\obj\Debug\ardufon_05_net.exe
+C:\Users\emirh\OneDrive\Belgeler\Arduino\ardufon\net pc yazılımı\ardufon_05_net\obj\Debug\ardufon_05_net.pdb
